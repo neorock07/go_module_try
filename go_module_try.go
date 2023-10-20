@@ -1,5 +1,5 @@
 package go_module_try
 
-func go_data() string {
+func GoData() string {
 	return "de maan in mijn huis, als ik "
 }
